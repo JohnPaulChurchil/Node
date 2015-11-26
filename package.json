@@ -2,10 +2,18 @@
 "author": "Brad Dayley",
 "name": "censorify",
 "version":"0.1.1",
-"description": "Censor wors out of text",
+"description": "Censors words out of text",
 "main": "censortext",
-"dependencies":{},
-"engines":{
+"repository": {
+ "type": "git",
+ "url":"http://github.com/Johnpaulchurchil/Node"
+},
+"keywords": [
+ "censor", 
+ "words"
+],
+"dependencies": {},
+"engines": {
  "node": "*"
 }
 }
